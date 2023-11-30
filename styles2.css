@@ -1,16 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700;800&display=swap');
+/*
+familia de fuentes: 'Bebas Neue', sans-serif;
+familia de fuentes: 'Mochiy Pop One', sans-serif;
+*/
+  
+
+
+
 body{
     background-color:  rgb(254, 220, 0);
     font-family: 'Times New Roman', Times, serif;
+
 }
+
+.header-content{
+    margin margin-top: 100%;
+    display: flex;
+    padding: 50px;
+    background-color:  rgb(254, 220, 0);
+    border: radius 25px;
+
+}
+
 h1{
     font-size: 40px;
-
+    font-family: 'poppins',sans-serif ;
+    padding: 5px 500px 5px 0px;
+    text-align:left;
 }
 
 p{
     font-size: 20px;
+    text-align:left;
+    margin-bottom: 35px;
+    padding: 0px 400px 0px 5px;
 }
-img{
-    width: 300px;
-    padding-top: 50px;
-}
+
